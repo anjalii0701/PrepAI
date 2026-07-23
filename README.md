@@ -1,8 +1,8 @@
-# 🚀 PrepAI - AI Powered Interview Preparation Platform
+# 🚀 JobMatch - AI Powered Interview Preparation Platform
 
-PrepAI is an AI-powered interview preparation platform that helps job seekers prepare smarter by analyzing resumes, understanding job descriptions, identifying skill gaps, and generating personalized interview strategies using Generative AI.
+JobMatch is an AI-powered interview preparation platform that helps job seekers prepare smarter by analyzing resumes, understanding job descriptions, identifying skill gaps, and generating personalized interview strategies using Generative AI.
 
-Built with **React**, **Node.js**, **Express**, **MongoDB**, **JWT Authentication**, **Google Gemini AI**, and **Puppeteer**, PrepAI simulates a real-world SaaS application with secure authentication and AI-driven career assistance.
+Built with **React**, **Node.js**, **Express**, **MongoDB**, **JWT Authentication**, **Google Gemini AI**, and **Puppeteer**, JobMatch simulates a real-world SaaS application with secure authentication and AI-driven career assistance.
 
 ---
 
@@ -70,7 +70,7 @@ Built with **React**, **Node.js**, **Express**, **MongoDB**, **JWT Authenticatio
 # 📂 Project Structure
 
 ```
-PrepAI
+JobMatch
 │
 ├── Backend
 │   ├── src
@@ -105,9 +105,9 @@ PrepAI
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/PrepAI.git
+git clone https://github.com/yourusername/JobMatch.git
 
-cd PrepAI
+cd JobMatch
 ```
 
 ---
