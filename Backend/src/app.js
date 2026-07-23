@@ -2,7 +2,10 @@ const express = require("express")
 const cookieParser = require("cookie-parser")
 const cors = require("cors")
 
+
 const app = express()
+
+console.log("FRONTEND_URL:", process.env.FRONTEND_URL);
 
 app.use(express.json())
 app.use(cookieParser())
